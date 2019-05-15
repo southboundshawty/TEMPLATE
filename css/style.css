@@ -52,7 +52,7 @@
     }
 }
 
-@media (max-width: 764px) {
+@media (max-width: 480px) {
     .wrapper {
         grid-template-areas: "header" "menu" "content" "ads" "footer";
         grid-template-columns: 1fr;
